@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_nx651j.mk
+    $(LOCAL_DIR)/lmodroid_nx651j.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_nx651j-user \
-    lineage_nx651j-userdebug \
-    lineage_nx651j-eng
+    lmodroid_nx651j-user \
+    lmodroid_nx651j-userdebug \
+    lmodroid_nx651j-eng
